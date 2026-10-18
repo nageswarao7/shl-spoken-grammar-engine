@@ -1,0 +1,15 @@
+{
+  "id": "nageswararao7/shl-whisper-transcription",
+  "title": "SHL Whisper Transcription",
+  "code_file": "transcribe_whisper.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [
+    "shl-hiring-assessment-2026"
+  ],
+  "kernel_sources": []
+}

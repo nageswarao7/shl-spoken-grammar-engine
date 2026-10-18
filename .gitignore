@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Raw dataset files (large audio files, keep code & CSVs)
+data/Dataset_Final/train/
+data/Dataset_Final/test/
+*.zip
+*.zip.kaggle-partial
+
+# Logs & temp
+*.log
+kaggle_whisper/log/
+
+# Environments
+venv/
+.env

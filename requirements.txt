@@ -1,0 +1,34 @@
+# ==============================================================================
+# SHL Spoken Grammar Scoring Engine - Dependencies
+# ==============================================================================
+
+# Core Data Science & Numerical Computing
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Audio Processing & Prosodic Acoustic Analysis
+soundfile>=0.12.0
+librosa>=0.10.0
+
+# Speech Recognition & Deep Learning
+torch>=2.1.0
+torchaudio>=2.1.0
+faster-whisper>=1.0.0
+
+# NLP, Linguistic & Grammar Error Analysis
+spacy>=3.7.0
+language-tool-python>=2.7.0
+textstat>=0.7.3
+transformers>=4.38.0
+
+# Gradient Boosted Decision Trees & ML Modeling
+scikit-learn>=1.3.0
+lightgbm>=4.3.0
+xgboost>=2.0.0
+catboost>=1.2.0
+
+# Visualization & Reporting
+matplotlib>=3.8.0
+seaborn>=0.13.0
+jupyter>=1.0.0
